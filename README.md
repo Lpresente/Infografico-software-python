@@ -61,13 +61,3 @@ No topo do arquivo `gerar_infografico.py`, edite a variável `CREDITO` com seu n
 ├── infografico_software.png  # Imagem final gerada
 └── README.md
 ```
-
-## 👤 Autor
-
-**Seu Nome**
-Curso de Seu Curso · Nome da Faculdade
-[LinkedIn](https://www.linkedin.com/in/SEU-PERFIL) · [GitHub](https://github.com/SEU-USUARIO)
-
-## 📄 Licença
-
-Este projeto foi desenvolvido para fins educacionais e de extensão universitária.
