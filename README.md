@@ -39,20 +39,9 @@ Evidenciar como soluções tecnológicas podem contribuir para a comunidade.
 
 5 - Aplicações sociais e benefícios para a comunidade.
 
-### ✏️ Personalização
+### Relação com o curso de ADS
 
-No topo do arquivo `gerar_infografico.py`, edite a variável `CREDITO` com seu nome, curso e instituição. Textos, cores e seções também podem ser alterados diretamente no código.
+A atividade está diretamente relacionada ao curso de Análise e Desenvolvimento de Sistemas, pois aborda conceitos essenciais da área de tecnologia, lógica de programação, desenvolvimento de sistemas e identificação de necessidades que podem ser solucionadas por meio de aplicações computacionais.
 
-## 📁 Estrutura do repositório
+A elaboração do material também contribui para a capacidade de organizar informações técnicas e transmitir conhecimentos de maneira didática.
 
-```
-.
-├── gerar_infografico.py      # Script que desenha o infográfico
-├── infografico_software.png  # Imagem final gerada
-└── README.md
-```
-
-## 👤 Autor
-
-**Lucas Presente Virosta**
-Curso de Análise e desenvolvimento de sistemas · UNIP
