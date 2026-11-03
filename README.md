@@ -1,35 +1,44 @@
-# 💻 O que é software? | Infográfico de Extensão
-
-Infográfico educativo sobre **desenvolvimento de software**, criado como parte das atividades de extensão universitária na área temática **Tecnologia e Produção** (desenvolvimento de aplicativos, software e websites para a comunidade e organizações não governamentais).
-
 <p align="center">
   <img src="infografico-software.png" alt="Infográfico: O que é software?" width="600">
 </p>
 
 ---
 
+O que é Software? — Infográfico Educativo
+
+Descrição e contexto da atividade
+
+Este projeto consiste na elaboração de um infográfico educativo com o tema "O que é Software?", desenvolvido com o objetivo de explicar de maneira visual, simples e acessível os conceitos fundamentais relacionados ao funcionamento dos softwares e sua importância na sociedade.
+
+O material apresenta a diferença entre hardware e software, os principais tipos de software (sistemas, aplicativos e ferramentas de programação), além de demonstrar como um software recebe informações, realiza processamentos e apresenta resultados ao usuário.
+
+Também são abordadas as etapas de desenvolvimento de um software, desde a identificação de um problema até a publicação e melhoria contínua, destacando aplicações práticas em áreas como saúde, educação, organizações não governamentais e acessibilidade.
+
 ## 🎯 Objetivo
 
-Explicar de forma simples e visual o que é software, como ele funciona e como é feito, mostrando que a tecnologia pode ser uma ferramenta de impacto social quando usada para resolver problemas reais de comunidades e ONGs.
+Objetivos
 
-## 📚 O que o infográfico aborda
+Explicar o conceito de software e sua relação com o hardware.
 
-| Seção | Conteúdo |
-|-------|----------|
-| **01 · Duas metades da tecnologia** | Diferença entre hardware (parte física) e software (parte lógica) e a definição de software |
-| **02 · Três tipos de software** | Software de sistema, aplicativos e ferramentas de programação, com exemplos |
-| **03 · Como funciona por dentro** | O caminho entrada → processamento → saída, com um exemplo prático |
-| **04 · Como um software é feito** | Ciclo de desenvolvimento: entender, programar, testar, publicar e melhorar |
-| **05 · Software para a comunidade** | Aplicações em saúde, educação, ONGs e acessibilidade |
+Identificar os principais tipos de software e suas finalidades.
 
-> **Ideia central:** software é ferramenta. O que importa é o problema que ele resolve e quem ele ajuda.
+Demonstrar de forma simplificada o funcionamento de um programa.
 
-## 🛠️ Tecnologias utilizadas
+Apresentar as etapas básicas do desenvolvimento de software.
 
-- [Python 3](https://www.python.org/)
-- [Pillow](https://python-pillow.org/): biblioteca de manipulação de imagens usada para desenhar o infográfico
+Evidenciar como soluções tecnológicas podem contribuir para a comunidade.
 
-O arquivo `infografico_software.png` será gerado na mesma pasta.
+## Conteúdo abordado
+
+1 - Hardware e software: diferenças e complementaridade.
+
+2 - Tipos de software: sistema, aplicativo e programação.
+
+3 - Funcionamento interno: entrada, processamento e saída.
+
+4 - Ciclo de desenvolvimento: entender, programar, testar, publicar e melhorar.
+
+5 - Aplicações sociais e benefícios para a comunidade.
 
 ### ✏️ Personalização
 
