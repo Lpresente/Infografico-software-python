@@ -29,24 +29,6 @@ Explicar de forma simples e visual o que é software, como ele funciona e como �
 - [Python 3](https://www.python.org/)
 - [Pillow](https://python-pillow.org/): biblioteca de manipulação de imagens usada para desenhar o infográfico
 
-## ▶️ Como gerar o infográfico
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
-   cd NOME-DO-REPOSITORIO
-   ```
-
-2. Instale a dependência:
-   ```bash
-   pip install pillow
-   ```
-
-3. Execute o script:
-   ```bash
-   python gerar_infografico.py
-   ```
-
 O arquivo `infografico_software.png` será gerado na mesma pasta.
 
 ### ✏️ Personalização
