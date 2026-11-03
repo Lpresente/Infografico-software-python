@@ -4,7 +4,7 @@
 
 ---
 
-O que é Software? — Infográfico Educativo
+## O que é Software? — Infográfico Educativo
 
 Descrição e contexto da atividade
 
