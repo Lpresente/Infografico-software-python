@@ -6,7 +6,6 @@
 
 ## O que é Software? — Infográfico Educativo
 
-Descrição e contexto da atividade
 
 Este projeto consiste na elaboração de um infográfico educativo com o tema "O que é Software?", desenvolvido com o objetivo de explicar de maneira visual, simples e acessível os conceitos fundamentais relacionados ao funcionamento dos softwares e sua importância na sociedade.
 
