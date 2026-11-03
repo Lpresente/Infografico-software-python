@@ -3,7 +3,7 @@
 Infográfico educativo sobre **desenvolvimento de software**, criado como parte das atividades de extensão universitária na área temática **Tecnologia e Produção** (desenvolvimento de aplicativos, software e websites para a comunidade e organizações não governamentais).
 
 <p align="center">
-  <img src="infografico_software.png" alt="Infográfico: O que é software?" width="600">
+  <img src="infografico-software.png" alt="Infográfico: O que é software?" width="600">
 </p>
 
 ---
